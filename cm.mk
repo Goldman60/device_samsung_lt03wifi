@@ -4,7 +4,7 @@ $(call inherit-product, device/samsung/lt03wifi/full_lt03wifi.mk)
 $(call inherit-product, vendor/cm/config/common_full_tablet_wifionly.mk)
 
 # Custom unofficial build tag
-TARGET_UNOFFICIAL_BUILD_ID := temasek
+TARGET_UNOFFICIAL_BUILD_ID := nclfjenkins
 
 PRODUCT_NAME := cm_lt03wifi
 PRODUCT_DEVICE := lt03wifi
